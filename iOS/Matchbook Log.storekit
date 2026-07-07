@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "11000001",
+      "localizations": [
+        {
+          "description": "Unlimited entries and rarity flag",
+          "displayName": "Matchbook Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.matchbooklog.pro",
+      "referenceName": "Matchbook Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
